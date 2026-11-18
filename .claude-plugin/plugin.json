@@ -1,0 +1,21 @@
+{
+  "name": "kurobaremu-skills",
+  "version": "0.1.0",
+  "description": "Personal agent skills for real engineering: oral architectural defenses, workflow discipline, and domain tooling.",
+  "author": {
+    "name": "KurobaRemu",
+    "url": "https://github.com/KurobaRemu"
+  },
+  "repository": "https://github.com/KurobaRemu/skills",
+  "license": "MIT",
+  "keywords": [
+    "engineering",
+    "skills",
+    "architecture",
+    "whiteboard-defense",
+    "productivity"
+  ],
+  "skills": [
+    "./skills/engineering/whiteboard-defense"
+  ]
+}

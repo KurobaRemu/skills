@@ -1,0 +1,21 @@
+{
+  "name": "kurobaremu",
+  "owner": {
+    "name": "KurobaRemu",
+    "url": "https://github.com/KurobaRemu"
+  },
+  "description": "Personal agent skills for real engineering, packaged as an installable plugin.",
+  "plugins": [
+    {
+      "name": "kurobaremu-skills",
+      "source": "./",
+      "description": "Personal agent skills for real engineering, starting with whiteboard-defense.",
+      "category": "engineering",
+      "keywords": [
+        "engineering",
+        "skills",
+        "whiteboard-defense"
+      ]
+    }
+  ]
+}
